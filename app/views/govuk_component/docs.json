@@ -41,5 +41,27 @@
         }
       }
     }
+  },
+  {
+    "id": "title",
+    "name": "Title",
+    "description": "",
+    "fixtures": {
+      "default": {
+        "title": "Page Title"
+      },
+      "sub_and_title": {
+        "title": "Page Title",
+        "subtitle": "Subtitle"
+      },
+      "whitehall_publication": {
+        "title": "Reducing mobile phone theft and improving security",
+        "subtitle": "Research and analysis"
+      },
+      "government_person": {
+        "title": "The Rt Hon Nick Clegg MP",
+        "subtitle": "Deputy Prime Minister and Lord President of the Council"
+      }
+    }
   }
 ]
